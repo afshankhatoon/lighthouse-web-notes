@@ -4,3 +4,7 @@
 ## Summary 
 
 This repository contains all of the notes taken by Afshan for the Lighthouse Labs Web Development Bootcamp.
+
+[Link Text](URL)
+
+...taken by [Afshan](https://github.com/afshankhatoon/)  for the...
